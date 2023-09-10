@@ -94,3 +94,26 @@ export const KartuPertanyaanUmum = [
     ikon: <IoMdCash />,
   },
 ];
+
+export const KartuPenghasilan = [
+  {
+    id: 0,
+    data: 9000,
+  },
+  {
+    id: 1,
+    data: 5000,
+  },
+  {
+    id: 2,
+    data: 1000,
+  },
+  {
+    id: 3,
+    data: 4000,
+  },
+  {
+    id: 4,
+    data: 5000,
+  },
+];
