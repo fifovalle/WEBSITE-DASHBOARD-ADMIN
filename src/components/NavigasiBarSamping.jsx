@@ -1,6 +1,6 @@
 // FILE REACT
 import React, { useState } from "react";
-import { FaTrashRestore } from "react-icons/fa";
+import { BiSolidDashboard } from "react-icons/bi";
 import { FiLogOut } from "react-icons/fi";
 // FILE SAYA
 import { Wadah } from "../styles/NavigasiBarSamping.styled";
@@ -13,8 +13,8 @@ export default function NavigasiBarSamping() {
       <Wadah>
         <div className="atas">
           <div className="merek">
-            <FaTrashRestore />
-            <span>SAMPAH KU</span>
+            <BiSolidDashboard />
+            <span>Dashboard</span>
           </div>
           <div className="beralih"></div>
           <div className="tautan">

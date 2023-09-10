@@ -1,5 +1,5 @@
 // FILE REACT
-import { MdSpaceDashboard, MdPeople } from "react-icons/md";
+import { MdSpaceDashboard, MdPeople, MdTimelapse } from "react-icons/md";
 import { FaAddressCard } from "react-icons/fa";
 import { GiTwirlCenter, GiHamburgerMenu } from "react-icons/gi";
 import { BsFillChatTextFill, BsFillCalendar2WeekFill } from "react-icons/bs";
@@ -8,6 +8,8 @@ import { VscChromeClose } from "react-icons/vsc";
 import { BiGroup } from "react-icons/bi";
 import { IoStatsChart } from "react-icons/io5";
 import { FiActivity } from "react-icons/fi";
+import { AiFillCalendar } from "react-icons/ai";
+import { IoMdCash } from "react-icons/io";
 
 export const TautanNavigasi = [
   {
@@ -48,7 +50,7 @@ export const TautanNavigasi = [
   },
 ];
 
-export const AnalisisKartu = [
+export const KartuAnalisis = [
   {
     id: 0,
     nama: "Pengeluaran Uang",
@@ -72,5 +74,23 @@ export const AnalisisKartu = [
     nama: "Aktivitas",
     uang: 40000,
     ikon: <FiActivity />,
+  },
+];
+
+export const KartuPertanyaanUmum = [
+  {
+    id: 0,
+    teks: "Kegiatan Apa Saja Yang Admin Lakukan?",
+    ikon: <AiFillCalendar />,
+  },
+  {
+    id: 1,
+    teks: "Jadwal Apa Saja Yang Harus Saya Lakukan?",
+    ikon: <MdTimelapse />,
+  },
+  {
+    id: 2,
+    teks: "Bagaimana Cara Menarik Uang Di Website Ini?",
+    ikon: <IoMdCash />,
   },
 ];

@@ -8,9 +8,9 @@ export default function NavigasiBar() {
   return (
     <Wadah>
       <div className="judul">
-        <h4>Admin Sampahku</h4>
+        <h4>Admin Barokah</h4>
         <h1>
-          Selamat Datang Di <span>DASHBOARD ADMIN || SAMPAH KU</span>
+          Selamat Datang Di <span>DASHBOARD ADMIN || BAROKAH</span>
         </h1>
       </div>
       <div className="pencaharian">

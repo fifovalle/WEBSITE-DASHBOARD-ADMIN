@@ -1,5 +1,6 @@
 // FILE STYLED COMPONENTS
 import styled from "styled-components";
+// FILE SAYA
 import { Kartu } from "./DigunakanUlang.styled";
 
 export const Wadah = styled.section`

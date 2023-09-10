@@ -3,12 +3,12 @@ import React from "react";
 // FILE SAYA
 import { Wadah } from "../styles/Analisis.styled";
 import { Kartu } from "../styles/DigunakanUlang.styled";
-import { AnalisisKartu } from "../utils/Data";
+import { KartuAnalisis } from "../utils/Data";
 
 export default function Analisis() {
   return (
     <Wadah>
-      {AnalisisKartu.map((analisis) =>
+      {KartuAnalisis.map((analisis) =>
         analisis.id === 0 || analisis.id === 3 ? (
           <div key={analisis.id} className="analisis">
             <div className="konten">
