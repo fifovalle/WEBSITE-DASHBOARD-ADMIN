@@ -2,5 +2,5 @@
 import React from "react";
 
 export default function Penghasilan() {
-  return <div>Penghasilan</div>;
+  return <div></div>;
 }

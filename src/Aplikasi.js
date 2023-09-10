@@ -8,8 +8,8 @@ import { Wadah } from "./styles/Aplikasi.styled";
 export default function Aplikasi() {
   return (
     <Wadah>
-      <Beranda />
       <NavigasiBarSamping />
+      <Beranda />
     </Wadah>
   );
 }

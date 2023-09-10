@@ -1,16 +1,16 @@
 // FILE REACT
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { FaTrashRestore } from "react-icons/fa";
 import { FiLogOut } from "react-icons/fi";
 // FILE SAYA
-import { Bagian } from "../styles/NavigasiBarSamping.styled";
+import { Wadah } from "../styles/NavigasiBarSamping.styled";
 import { TautanNavigasi } from "../utils/Data";
 
 export default function NavigasiBarSamping() {
   const [tautanSaatIni, aturTautanSaatIni] = useState(0);
   return (
     <>
-      <Bagian>
+      <Wadah>
         <div className="atas">
           <div className="merek">
             <FaTrashRestore />
@@ -26,7 +26,7 @@ export default function NavigasiBarSamping() {
                     className={tautan.id === tautanSaatIni ? "aktif" : ""}
                     onClick={() => aturTautanSaatIni(tautan.id)}
                   >
-                    <a href="#">
+                    <a href="/">
                       {tautan.ikon}
                       <span> {tautan.nama}</span>
                     </a>
@@ -37,12 +37,12 @@ export default function NavigasiBarSamping() {
           </div>
         </div>
         <div className="keluar">
-          <a href="#">
+          <a href="/">
             <FiLogOut />
             <span> Keluar</span>
           </a>
         </div>
-      </Bagian>
+      </Wadah>
     </>
   );
 }

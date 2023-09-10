@@ -2,5 +2,5 @@
 import React from "react";
 
 export default function Mengirim() {
-  return <div>Mengirim</div>;
+  return <div></div>;
 }

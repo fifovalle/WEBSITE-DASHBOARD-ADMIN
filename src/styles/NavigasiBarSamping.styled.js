@@ -1,7 +1,7 @@
 // FILE STYLED COMPONENTS
 import styled from "styled-components";
 
-export const Bagian = styled.section`
+export const Wadah = styled.section`
   position: fixed;
   left: 0;
   background-color: #e8e4e6;
