@@ -146,3 +146,21 @@ export const KartuTransaksi = [
     uang: "+1000",
   },
 ];
+
+export const KartuProfil = [
+  {
+    id: 0,
+    deskripsi: "Bekerja",
+    keterangan: "28 Hari",
+  },
+  {
+    id: 1,
+    deskripsi: "Pengeluaran",
+    keterangan: "100.000",
+  },
+  {
+    id: 2,
+    deskripsi: "Penghasilan",
+    keterangan: "200.000",
+  },
+];
