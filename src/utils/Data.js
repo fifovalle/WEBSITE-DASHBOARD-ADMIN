@@ -10,6 +10,8 @@ import { IoStatsChart } from "react-icons/io5";
 import { FiActivity } from "react-icons/fi";
 import { AiFillCalendar } from "react-icons/ai";
 import { IoMdCash } from "react-icons/io";
+// FILE SAYA
+import Foto from "../assets/img/foto.jpg";
 
 export const TautanNavigasi = [
   {
@@ -115,5 +117,32 @@ export const KartuPenghasilan = [
   {
     id: 4,
     data: 5000,
+  },
+];
+
+export const KartuTransaksi = [
+  {
+    id: 0,
+    foto: Foto,
+    nama: "Budi",
+    tanggal: "2 September 2023",
+    keterangan: "Pengeluaran Uang",
+    uang: "-1000",
+  },
+  {
+    id: 1,
+    foto: Foto,
+    nama: "Budo",
+    tanggal: "5 September 2023",
+    keterangan: "Pemasukan Uang",
+    uang: "+1000",
+  },
+  {
+    id: 2,
+    foto: Foto,
+    nama: "Rahmat",
+    tanggal: "10 September 2023",
+    keterangan: "Pemasukan Uang",
+    uang: "+1000",
   },
 ];

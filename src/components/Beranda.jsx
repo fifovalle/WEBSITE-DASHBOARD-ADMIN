@@ -6,7 +6,7 @@ import NavigasiBar from "./NavigasiBar";
 import Analisis from "./Analisis";
 import PertanyaanUmum from "./PertanyaanUmum";
 import Penghasilan from "./Penghasilan";
-import Mengirim from "./Mengirim";
+import Transaksi from "./Transaksi";
 import Profil from "./Profil";
 
 export default function Beranda() {
@@ -20,7 +20,7 @@ export default function Beranda() {
         </div>
         <div className="baris_kedua">
           <Penghasilan />
-          <Mengirim />
+          <Transaksi />
           <Profil />
         </div>
       </div>
