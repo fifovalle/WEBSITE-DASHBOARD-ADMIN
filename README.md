@@ -22,7 +22,7 @@ Saya menghargai pendapat Anda! Jika Anda memiliki ide atau masukan tentang apa y
 
 Ingin berkolaborasi atau mendiskusikan proyek? Jangan ragu untuk menghubungi saya melalui email di [fifanaufal10@gmail.com](mailto:fifanaufal10@gmail.com) atau terhubung dengan saya di [WhatApp](https://wa.me/+6281223652490).
 
-## 🛠️ Kemampuan
+## 🛠️ Dibuat Dengan
 
 - Bahasa Pemrograman: JavaScript.
 - Pengembangan Web: HTML, Styled-Components, React.
