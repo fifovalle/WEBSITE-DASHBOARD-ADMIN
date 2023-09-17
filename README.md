@@ -32,5 +32,5 @@ Ingin berkolaborasi atau mendiskusikan proyek? Jangan ragu untuk menghubungi say
 Terima kasih atas kunjungan Anda dan kesabaran Anda selama proses pengembangan. Saya berharap dapat memberikan pengalaman yang lebih baik dalam waktu dekat! 🙌
 
 <div align="center">
-  &copy; 2023 Naufal FIFA
+  &copy; 2023 [Naufal FIFA]
 </div>
