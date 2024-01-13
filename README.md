@@ -35,7 +35,7 @@ Ingin berkolaborasi atau mendiskusikan proyek? Jangan ragu untuk menghubungi say
 
 Kontribusi dan umpan balik dari komunitas sangat dihargai. Jika Anda ingin berkontribusi, silakan buat _pull request_ atau buka _issue_.
 
-### 👨‍💻 Cara Menjalankan Proyek dengan React
+### 👨‍💻 Cara Menjalankan Proyek
 
 1. Clone repositori ini ke direktori lokal Anda.
 
