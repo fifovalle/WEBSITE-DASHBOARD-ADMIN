@@ -23,13 +23,13 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 
 ## 📷 Preview Halaman
 
-Berikut adalah beberapa cuplikan tampilan halaman website :
+Berikut adalah beberapa tampilan halaman website :
 
 ![Screenshot 2023-09-11 113300](https://github.com/fifovalle/WEBSITE-DASHBOARD-ADMIN/assets/90078068/0816ec40-c569-4af1-9014-9833117f4e69)
 
 ## 📬 Kontak
 
-Ingin berkolaborasi atau mendiskusikan proyek? Jangan ragu untuk menghubungi saya melalui email di [fifanaufal10@gmail.com](mailto:fifanaufal10@gmail.com) atau terhubung dengan saya di [WhatsApp](https://wa.me/+6281223652490).
+Ingin berkolaborasi atau mendiskusikan proyek? Jangan ragu untuk menghubungi saya melalui email di [fifanaufal10@gmail.com](mailto:fifanaufal10@gmail.com) atau terhubung dengan saya di [WhatsApp](https://wa.me/+6282318334287).
 
 ### 🙏 Kontribusi
 
